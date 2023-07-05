@@ -1,0 +1,16 @@
+{
+  "name": "someapp",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "rollup"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "rollup": "^3.26.1"
+  }
+}
